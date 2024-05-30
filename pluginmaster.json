@@ -4,7 +4,7 @@
     "Name": "HousingPos",
     "InternalName": "HousingPos",
     "AssemblyVersion": "1.3.1.1",
-    "Description": "Automatically save/load the positions of housing furnitures.",
+    "Description": "一键装修无权限偷家无底裤",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Bluefissure/HousingPos",
     "Tags": [
@@ -16,7 +16,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "A housing tool",
+    "Punchline": "一键装修无权限偷家无底裤",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
