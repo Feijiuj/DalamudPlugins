@@ -1,0 +1,7 @@
+# Bluefissure Plugins
+
+These are plugins made by myself.
+
+
+| Author | Name | Description |
+|---------------|---------------|-----------------|
