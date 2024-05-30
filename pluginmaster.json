@@ -27,26 +27,27 @@
     "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/HousingPos/latest.zip"
   },
   {
-    "Author": "Bluefissure",
-    "Name": "Window Locker",
-    "Description": "A simple plugin that lock the positions of specified windows. /windowlocker to open.",
-    "InternalName": "WindowLocker",
-    "AssemblyVersion": "1.0.1.0",
-    "RepoUrl": "https://github.com/Bluefissure/WindowLocker",
-    "IconUrl": "https://raw.githubusercontent.com/Bluefissure/WindowLocker/master/images/icon.png",
-    "ApplicableVersion": "any",
+    "Author": "Taurenkey",
+    "Name": "Saucy",
+    "Punchline": "国服特供金蝶插件",
+    "Description": "国服特供金蝶插件",
     "Tags": [
-      "Bluefissure",
-      "UI",
-      "window"
+      "gold saucer",
+      "mgp",
+      "automation"
     ],
-    "DalamudApiLevel": 5,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1639105128",
-    "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/WindowLocker/latest.zip"
-  }
+    "InternalName": "Saucy",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "DownloadCount": 97428,
+    "LastUpdate": 1717048415806,
+    "DownloadLinkInstall": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Saucy/latest.zip",
+    "AssemblyVersion": "1.3.0.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "- Added Tidychat notice for Out on a Limb",
+    "TestingAssemblyVersion": "1.3.0.4",
+    "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Saucy/latest.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+  },
 ]
