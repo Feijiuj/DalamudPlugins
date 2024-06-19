@@ -51,15 +51,16 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   },
     {
-    "Author": "淘宝/忘忧骑士亭，闲鱼/白色琴弦",
-    "Name": "使用须知",
-    "InternalName": "使用须知",
+    "Author": "Bluefissure",
+    "Name": "Double Weaver",
+    "InternalName": "DoubleWeaver",
     "AssemblyVersion": "1.0.6.2",
-    "Description": "请点开该插件的小地球图标(浏览插件主页)打开使用须知表格 上面的一堆下载失败请无视\n请详细查看里面的教程和常见问题FAQ\n\n如果遇到里面没有的问题可以随时问客服\n若是在闲鱼下单的一般都会在淘宝后台也发一条消息 最好是在淘宝咨询回复会更快\n\n",
+    "Description": "Double weaving in high latency network.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://docs.qq.com/sheet/DUUd3dEZ0WUhJWFVX?tab=000001&_t=1718762274164",
+    "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
     "Tags": [
-      "使用须知",
+      "bluefissure",
+      "doublewaver"
     ],
     "DalamudApiLevel": 9,
     "LoadRequiredState": 0,
@@ -67,7 +68,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
-    "Punchline": "请点开该插件的小地球图标(浏览插件主页)打开使用须知表格 上面的一堆下载失败请无视\n请详细查看里面的教程和常见问题FAQ",
+    "Punchline": "Double weaving with high ping",
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
