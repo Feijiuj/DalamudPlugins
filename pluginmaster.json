@@ -78,5 +78,31 @@
     "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/UseNeed/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/UseNeed/latest.zip"
   },
-
+  {
+    "Author": "UnknownX,由 淘宝/忘忧骑士亭，闲鱼/白色琴弦 汉化",
+    "Name": "ReAction",
+    "InternalName": "ReAction",
+    "AssemblyVersion": "1.3.3.7",
+    "Description": "里面添加的技能 例如奶妈的单体治疗可以直接把鼠标移到小队列表上需要治疗的目标 无需选中即可对其释放技能\n同时也支持按下一个按键自动连点，使用须知的表格内有大致教程",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/UnknownX7/ReAction",
+    "Tags": [
+      "unknownx",
+      "reaction"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "快捷施法",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1696998696",
+    "DownloadLinkInstall": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/ReAction/latest.zip"
+  },
 ]
