@@ -105,4 +105,29 @@
     "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/ReAction/latest.zip"
   },
+    {
+    "Author": "Fragile",
+    "Name": "空天姬",
+    "InternalName": "KTJ",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "全自动海钓",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "fish",
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "全自动海钓",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1696998696",
+    "DownloadLinkInstall": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/KTJ/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/KTJ/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/KTJ/latest.zip"
+  },
 ]
