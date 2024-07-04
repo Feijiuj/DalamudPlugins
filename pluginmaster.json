@@ -51,7 +51,7 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   },
     {
-    "Author": "淘宝/忘忧骑士亭，闲鱼/白色琴弦",
+    "Author": "淘宝/苍穹骑士团，闲鱼/白色琴弦",
     "Name": "使用须知",
     "InternalName": "DoubleWeaver",
     "AssemblyVersion": "1.0.6.2",
@@ -79,7 +79,7 @@
     "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/UseNeed/latest.zip"
   },
   {
-    "Author": "UnknownX,由 淘宝/忘忧骑士亭，闲鱼/白色琴弦 汉化",
+    "Author": "UnknownX,由 好心群友 汉化",
     "Name": "ReAction",
     "InternalName": "ReAction",
     "AssemblyVersion": "1.3.3.7",
