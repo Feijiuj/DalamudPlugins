@@ -130,4 +130,25 @@
     "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/KTJ/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/KTJ/latest.zip"
   },
+   {
+        "Author": "0x, NiGuangOwO",
+        "Name": "LuckyStar",
+        "Punchline": "自动农怪（需安装vnavmesh及自动循环插件）",
+        "Description": "woc！触发组！",
+        "Changelog": "修复月球数据错误",
+        "InternalName": "LuckyStar",
+        "AssemblyVersion": "0.0.0.2",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "RankS"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Luckystar/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Luckystar/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/Luckystar/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1721559054"
+    },
 ]
