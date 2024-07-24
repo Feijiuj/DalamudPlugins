@@ -151,4 +151,26 @@
         "DownloadCount": 0,
         "LastUpdate": "1721559054"
     },
+     {
+        "Author": "a die people",
+        "Name": "Rotation Solver",
+        "Punchline": "自动循环 具体教程请查看使用须知内的表格.\n有时会莫名其妙失效 请先进入副本或者尝试重启游戏 若都不行请重新解压一份卫月将XIVlanucher/pluginconfigs文件夹内的rotation文件夹替换过来",
+        "Description": "/rotation Auto启动自动选择目标 /rotation Maunal启动手动选择目标 /rotation Cancel关闭自动循环\n也可以点击服务器栏的Off图标来切换模式 或者在插件设置内开启悬浮窗\n\n有时会莫名其妙失效 请先进入副本或者尝试重启游戏 若都不行请重新解压一份卫月将XIVlanucher/pluginconfigs文件夹内的rotation文件夹替换过来",
+        "Changelog": "修复月球数据错误",
+        "InternalName": "Rotation Solver",
+        "AssemblyVersion": "3.6.3.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "rotation"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Feijiuj/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1721559054"
+    },
 ]
